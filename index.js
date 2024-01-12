@@ -68,8 +68,8 @@ setInterval(() => {
 const msg = chats[Math.floor(Math.random()*chats.length)]
 setTimeout(() => {
 channel.send(msg)
-}, 8000)
-}, 15000)
+}, 10000)
+}, )
 
 })
 
