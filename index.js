@@ -69,7 +69,7 @@ const msg = chats[Math.floor(Math.random()*chats.length)]
 setTimeout(() => {
 channel.send(msg)
 }, 17000)
-}, 700)
+}, 9000)
 
 })
 
